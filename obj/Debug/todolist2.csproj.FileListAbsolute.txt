@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\todolist2\bin\Debug\todolist2.exe.config
+C:\Users\User\source\repos\todolist2\bin\Debug\todolist2.exe
+C:\Users\User\source\repos\todolist2\bin\Debug\todolist2.pdb
+C:\Users\User\source\repos\todolist2\obj\Debug\todolist2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\todolist2\obj\Debug\todolist2.ToDoList.resources
+C:\Users\User\source\repos\todolist2\obj\Debug\todolist2.Properties.Resources.resources
+C:\Users\User\source\repos\todolist2\obj\Debug\todolist2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\todolist2\obj\Debug\todolist2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\todolist2\obj\Debug\todolist2.exe
+C:\Users\User\source\repos\todolist2\obj\Debug\todolist2.pdb
